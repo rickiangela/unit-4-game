@@ -1,0 +1,58 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+img {
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 95px;
+  }
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+#first-box{
+    background-color:orange;
+    font-size: 34px;
+    color: white;
+    padding: 10px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+#second-box{
+    background-color:beige;
+    color:green;
+    padding: 20px;
+    line-height: 1.5;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#random-number-box{
+    background-color: green;
+    color:purple;
+    margin-top: 10px;
+    padding: 5px 5px 75px 15px;
+    margin-left: 5px;
+    font-size: 50px;
+}
+#wins-losses-box{
+    background-color:lightblue;
+    color:green;
+    margin-top: 10px;
+    padding: 10px 10px 30px 10px;
+}
+#first-blue-row{
+    background-color:blue;
+    color:white;
+    margin-top: 10px;
+    padding: 5px;
+    margin-left: 5px
+}
+#second-blue-row{
+    background-color:blue;
+    color:white;
+    margin-top: 5px;
+    padding: 5px 5px 50px 5px;
+    margin-left: 5px;
+    font-size: 50px;
+}
